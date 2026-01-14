@@ -19,7 +19,8 @@ Ce projet fait partie d’un portfolio visant à démontrer des compétences en 
 
 ## 2. Architecture du pipeline
 
-diagram d'architecture dans diagram/
+![Pipeline Architecture](diagrams/NYCTaxiAnalyticsPipeline.png)
+
 
 ## 3. Nettoyage & Quality Checks
 
