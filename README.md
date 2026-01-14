@@ -18,26 +18,8 @@ Il couvre toutes les étapes essentielles du métier de data engineer :
 Ce projet fait partie d’un portfolio visant à démontrer des compétences en SQL avancé, data quality, modélisation analytique et structuration de pipeline.
 
 ## 2. Architecture du pipeline
-Code
-          RAW DATA
-              │
-              ▼
-        STAGING LAYER
-              │
-              ▼
-     CLEANING & QUALITY CHECKS
-              │
-              ▼
-        DIMENSION TABLES
-              │
-              ▼
-       ANALYTICAL QUERIES
-              │
-              ▼
-   MATERIALIZED VIEW (mv_daily_stats)
-              │
-              ▼
-         DASHBOARD / ANALYSIS
+
+diagram d'architecture dans diagram/
 
 ## 3. Nettoyage & Quality Checks
 
