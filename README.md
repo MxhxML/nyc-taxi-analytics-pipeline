@@ -107,7 +107,8 @@ nyc-taxi-analytics-pipeline/
 │
 └── notes/
     └── decisions.md
-'''
+```
+
 ## 7. Compétences démontrées
 SQL avancé (fenêtres, agrégations, CTE, jointures)
 
