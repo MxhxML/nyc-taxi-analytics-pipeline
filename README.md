@@ -106,7 +106,8 @@ nyc-taxi-analytics-pipeline/
 │   └── staging_trips.sql
 │
 └── notes/
-    └── decisions.md```
+    └── decisions.md
+'''
 ## 7. Compétences démontrées
 SQL avancé (fenêtres, agrégations, CTE, jointures)
 
