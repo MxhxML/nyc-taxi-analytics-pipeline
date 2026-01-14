@@ -79,6 +79,7 @@ Cette vue sert de base à des dashboards ou analyses rapides.
 
 ## 6. Structure du repository
 Code
+'''
 nyc-taxi-analytics-pipeline/
 │
 ├── README.md
@@ -106,6 +107,7 @@ nyc-taxi-analytics-pipeline/
 │
 └── notes/
     └── decisions.md
+'''
 ## 7. Compétences démontrées
 SQL avancé (fenêtres, agrégations, CTE, jointures)
 
